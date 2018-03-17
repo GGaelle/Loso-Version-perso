@@ -283,7 +283,7 @@ p {
 }
 
 .carousel-inner .item img {
-    border: 2px solid#129CF3;
+    border: 2px solid #003399;
     border-radius: 50%;
     padding: 3px;
 }
@@ -293,14 +293,14 @@ p {
 }
 
 .testimonial-caption h2 {
-    color: #129CF3;
+    color: #e20a17;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 30px;
     margin-top: 25px;
 }
 .testimonial-caption h4 {
-    color: #129CF3;
+    color: #003399;
 }
 
 .testimonial-caption h4 span {
