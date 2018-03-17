@@ -20,7 +20,7 @@ p {
 .section-title h2 {
     position: relative;
     text-align: center;
-    color: #333;
+    color: #003399;
     font-size: 30px;
     font-weight: 400;
     text-transform: uppercase;
@@ -32,7 +32,7 @@ p {
     left: 50%;
     width: 60px;
     height: 1px;
-    background-color: #129CF3;
+    background-color: #e20a17;
     margin-left: -30px;
 }
 
@@ -205,24 +205,26 @@ p {
     padding-bottom: 50px;
 }
 
-.choose-us-title h2 {
+.choose-us-title h3 {
+    font-family: "Quicksand", sans-serif
     text-transform: uppercase;
+    color: #333;
     font-weight: 800;
-    font-size: 30px;
+    font-size: 40px;
     line-height: 37px;
     position: relative;
 }
-.choose-us-title h2:after {
+.choose-us-title h3:after {
     content:"";
     position: absolute;
-    bottom: -12px;;
+    bottom: -5px;
     left: 0;
     width: 70px;
     height: 1px;
     background-color: #e20a17;
 }
 .choose-us-title p {
-    margin-top: 40px;
+    margin-top: 20px;
     font-size: 19px;
     line-height: 24px;
 }
@@ -240,7 +242,7 @@ p {
 
 .choose-us-item div i {
     font-size: 55px;
-    color: #003399;
+    color: #e20a17;
     transition: all is;
     -webkit-transition: all is;
     -o-transition: all is;
