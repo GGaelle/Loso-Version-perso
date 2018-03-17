@@ -219,7 +219,7 @@ p {
     left: 0;
     width: 70px;
     height: 1px;
-    background-color: #129CF3;
+    background-color: #e20a17;
 }
 .choose-us-title p {
     margin-top: 40px;
@@ -240,7 +240,7 @@ p {
 
 .choose-us-item div i {
     font-size: 55px;
-    color: #129CF3;
+    color: #003399;
     transition: all is;
     -webkit-transition: all is;
     -o-transition: all is;
