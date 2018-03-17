@@ -91,8 +91,6 @@ p {
 
 
 
-
-
 /* ======== Header ======= */
 .header {
     background-image: url("../Images/GSXR_HDR2.jpg");
@@ -116,9 +114,9 @@ p {
 
 .header-text h1 {
     color: #fff;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 200px;
-    line-height: 45px;
+    line-height: 40px;
     padding-top: 30px;
     text-transform: uppercase;
 }
@@ -186,8 +184,8 @@ p {
 }
 
 .header-moto img{
-    width: 200%;
-    padding-top: 35px;
+    width: 100%;
+    padding-top: 5px;
  
 }
 
